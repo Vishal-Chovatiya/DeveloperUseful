@@ -1,20 +1,23 @@
+## Windows
 
-> **Open Terminal On Particular Folder Windows**
+> **Open Terminal On Particular Folder**
 - `Shift + Right Click` -> `Open command window here`.
 
-> **Minimize/Maximize Windows**
+> **Minimize/Maximize**
 - `Window Key + Arrow Up` : Maximize & `Window Key + Arrow Down` : Minimize
 
-> **New Tab in Browser**
+## Browser
+
+> **New Tab in**
 - `Ctrl + t`
 
 > **Close tab/window**
 - `Ctrl + w`
 
-> **Write URL in new Tab in Browser**
+> **Write URL in new Tab**
 - `Ctrl + l`
 
-> **Open previously closed Tab in Browser**
+> **Open previously closed Tab**
 - `Ctrl + Shift + t`
 
 > **Switch between tab in browser**
@@ -28,6 +31,8 @@
 
 > **Font style**
 - Bold = `Ctrl + B`
+
+## PDF Viewer
 
 > **Previous View in Adobe Acrobat PDF Reader**
 - `Alt + Left Arrow`
